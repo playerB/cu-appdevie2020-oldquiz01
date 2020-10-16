@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="core">
-      <HintPath>..\..\core\core\bin\Debug\core.exe</HintPath>
+      <HintPath>..\..\..\quiz1\quiz1\bin\Debug\core.exe</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
